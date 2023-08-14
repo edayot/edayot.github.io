@@ -4,9 +4,8 @@ on:
   # only run on master branch on push that modifies data/ by edayot
   push:
     branches:
-      - master
-    paths:
-      - 'docs/**'
+      - main
+
 
 
 
